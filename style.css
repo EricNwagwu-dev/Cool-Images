@@ -1,0 +1,13 @@
+body { 
+    padding-top: 70px; 
+}
+.jumbotron{
+    background: rgb(255, 158, 68) !important;
+    color: white !important;
+}
+.jumbotron span{
+    color: rgb(24, 20, 20);
+}
+.navbar-brand span{
+    color: rgb(255, 158, 68);
+}
